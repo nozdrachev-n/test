@@ -1,9 +1,7 @@
 ﻿123
 commit test
 456
-
-"изменение"
-
 789.
 тест
 new branch line
+new line for GUI
